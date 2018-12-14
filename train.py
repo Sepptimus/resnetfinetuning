@@ -1,6 +1,6 @@
 from ResnetFace import make_models
 from keras.optimizers import Adam
-from data import DataReader, TripletGenerator, LFWReader
+from data import DataReader, TripletGenerator
 import config
 from os.path import join
 '''
