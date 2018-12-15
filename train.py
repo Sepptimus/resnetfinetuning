@@ -4,8 +4,7 @@ from data import DataReader, TripletGenerator
 import config
 from os.path import join
 '''
-This fine-tuning is inspired by https://github.com/Ao-Lee/Vgg-Face-Fine-tune as well as 
-the triplet loss function appeared in the FaceNet paper https://arxiv.org/abs/1503.03832 
+This fine-tuning is inspired by triplet loss function appeared in the FaceNet paper https://arxiv.org/abs/1503.03832 
 I replaced the VGG model with ResNet50 trained on VGGFace2.
 '''
 
