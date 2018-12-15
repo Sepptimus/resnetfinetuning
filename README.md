@@ -1,2 +1,2 @@
 # resnetfinetuning
-Fine-Tuning ResNet50 usind a tripletLoss function.
+Fine-Tuning ResNet50 using a triplet-Loss function.
